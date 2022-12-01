@@ -1,3 +1,4 @@
+/* DAIWKO HEDERI */
 header{ width: 1280px;
     border: 5px  solid red;
     padding: 17px 66px 37px 44px;  
@@ -16,5 +17,39 @@ li{font-size: 18px;
     display: inline-block;
     vertical-align: middle;
     margin-left: 102px;
+
+}
+
+/* DAIWKO SEKCIA */
+
+section{ width: 1280px;
+    margin: 0 auto;
+ border: 5px solid black;
+ padding: 174px 110px 152px 95px;
+ background-color: #306b34;
+ 
+
+}
+img{ 
+    margin: 0 auto;
+    height: 453px; width: 679px;
+    
+    vertical-align: top;
+    
+    
+}
+div{width: 307px; height: 380px;
+    display: inline-block;
+    border: 5px solid red;
+    vertical-align: top;
+    margin-left: 30px;
+   
+}
+ 
+h2{ font-size: 40px;
+
+}
+p{font-size: 20px;
+    margin-top: 58px;
 
 }
