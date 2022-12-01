@@ -1,0 +1,20 @@
+header{ width: 1280px;
+    border: 5px  solid red;
+    padding: 17px 66px 37px 44px;  
+    margin: 0 auto;
+
+}
+nav{display: inline-block;
+
+}
+h1{ font-size: 70px;
+    display: inline-block;
+    vertical-align: middle;
+
+}
+li{font-size: 18px;
+    display: inline-block;
+    vertical-align: middle;
+    margin-left: 102px;
+
+}
