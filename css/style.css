@@ -1,6 +1,6 @@
 /* DAIWKO HEDERI */
 header{ width: 1280px;
-    border: 5px  solid red;
+    
     padding: 17px 66px 37px 44px;  
     margin: 0 auto;
 
@@ -24,11 +24,19 @@ li{font-size: 18px;
 
 section{ width: 1280px;
     margin: 0 auto;
- border: 5px solid black;
+ 
  padding: 174px 110px 152px 95px;
  background-color: #306b34;
  
 
+}
+
+div{width: 307px; height: 380px;
+    display: inline-block;
+    
+    vertical-align: top;
+    margin-left: 30px;
+   
 }
 img{ 
     margin: 0 auto;
@@ -38,18 +46,44 @@ img{
     
     
 }
-div{width: 307px; height: 380px;
-    display: inline-block;
-    border: 5px solid red;
-    vertical-align: top;
-    margin-left: 30px;
-   
-}
  
 h2{ font-size: 40px;
 
 }
 p{font-size: 20px;
     margin-top: 58px;
+
+}
+
+/* DAIWKO ARTIKLI */
+article{ width: 1280px;
+    margin: 0 auto;
+    padding: 240px 137px 150px 184px;
+    
+    border: 5px solid black;
+
+}
+.poto{ width: 272px; height: 46px;
+    /* mokled ak verafrit gavixsene rogor unda gamecentra poto da davgugle sheidzleba ssashineleba makvs gaketebuli mara memgoni gaamartla */
+    
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  
+         
+
+}
+.text{ width: 959px;
+    display: inline-block;
+    margin-top: 72px;
+    font-size: 20px;
+
+
+}
+ button{height: 48px; width: 148px;
+    background-color: #36413e;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 
 }
