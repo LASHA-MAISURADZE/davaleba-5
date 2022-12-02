@@ -3,14 +3,24 @@ header{ width: 1280px;
     
     padding: 17px 66px 37px 44px;  
     margin: 0 auto;
+   
 
 }
 nav{display: inline-block;
+    
+    font-size: 5px;
+    font-weight: normal;
 
 }
 h1{ font-size: 70px;
     display: inline-block;
     vertical-align: middle;
+    font-family: 'Zen Dots';
+    font-weight: bold;
+    font-family: 'Zen Dots';
+    font-weight: bolder;
+    
+
 
 }
 li{font-size: 18px;
@@ -24,7 +34,8 @@ li{font-size: 18px;
 
 section{ width: 1280px;
     margin: 0 auto;
- 
+    font-family: 'Zen Dots';
+    
  padding: 174px 110px 152px 95px;
  background-color: #306b34;
  
@@ -52,6 +63,8 @@ h2{ font-size: 40px;
 }
 p{font-size: 20px;
     margin-top: 58px;
+    font-family: 'Zen Dots';
+    font-style: italic;
 
 }
 
@@ -60,7 +73,8 @@ article{ width: 1280px;
     margin: 0 auto;
     padding: 240px 137px 150px 184px;
     
-    border: 5px solid black;
+    
+    font-family: 'Zen Dots';
 
 }
 .poto{ width: 272px; height: 46px;
@@ -77,7 +91,7 @@ article{ width: 1280px;
     display: inline-block;
     margin-top: 72px;
     font-size: 20px;
-
+    font-style: italic;
 
 }
  button{height: 48px; width: 148px;
@@ -87,3 +101,27 @@ article{ width: 1280px;
     margin-right: auto;
 
 }
+
+/* DAIWKO FOOTERI  */
+
+footer{ width: 1280px; height: 68px;
+    margin: 0 auto;
+    
+    background-color: #306b34;
+    padding: 25px 109px 27px 74px;
+    
+
+
+}
+  
+.poto2{ height: 16px; width: 108px;
+    
+
+}
+
+figcaption{ display: inline-block;
+    margin-left: 600px;
+    color: white;
+}
+figure{ display: inline-block;}
+
